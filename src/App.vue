@@ -1,14 +1,8 @@
-
 <template>
   <router-view />
 </template>
 
-
-<script>
-
+<script option>
 </script>
 
-
-<style scoped>
-
-</style>
+<style scoped></style>
