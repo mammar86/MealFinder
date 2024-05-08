@@ -5,4 +5,3 @@
 <script option>
 </script>
 
-<style scoped></style>

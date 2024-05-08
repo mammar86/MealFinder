@@ -5,6 +5,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Notes
 - `src/view` directory was created for pages that has router routes while `src/components` is for smaller components or widgets
 - `Pinia` is used over `Vuex`
+-  Composition API was used over Options API in this project just because just as an exercise but I am more familiar with options API
 
 
 ## Commands used
