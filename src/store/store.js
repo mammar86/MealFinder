@@ -3,13 +3,12 @@ import {fetchMealsByName, fetchMealsByFirstLetter} from '../dataClient';
 
 export const useAppStore = defineStore('app', {
   state: () => ({ 
-    count: 0,
-    name: 'Eduardo',
+    //count: 0,
     mealsByName: [],
     mealByFirstLetter: [],
     }),
   getters: {
-    doubleCount: (state) => state.count * 2,
+    //doubleCount: (state) => state.count * 2,
   },
   actions: {
     increment() {

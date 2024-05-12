@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col p-8 h-100">
+  <div class="flex flex-col py-10 px-20 h-100">
     <div class="flex justify-center p-6">
       <input
         type="text"
